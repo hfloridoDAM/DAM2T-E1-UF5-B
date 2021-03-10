@@ -1,0 +1,16 @@
+< Error en la linea >
+< Parametros insuficientes >
+< Parametros insuficientes >
+< Parada correcta >
+< No hay suficientes passageros >
+< Parada correcta >
+< Parada correcta >
+< Parada correcta >
+< No hay suficientes passageros >
+< Parada correcta >
+< Error en la linea >
+< Parada correcta >
+< Parada correcta >
+< Parametros insuficientes >
+T S W T S S 
+W W T T S W S 
